@@ -1,0 +1,82 @@
+body{
+  color: grey;
+  font-family: verdana;
+  font-size: 18px;
+  }
+  h1{
+    font-family: verdana;
+    font-size: 40px;
+    font-weight: bold;
+    color: #3cb0fd;
+  }
+  table{
+    border:4px solid grey;
+    width: 40%;
+    border-collapse: collapse;
+  }
+  th{
+    font-family: verdana;
+    color: #3498db;
+    border: 2px solid grey;
+    text-align: left;
+  }
+  td{
+    border: 3px solid grey;
+  }
+  th,td{
+    padding: 8px;
+  }
+  tr:nth-child(even){background-color: #f2f2f2; }
+  tr:hover{
+    background-color:#D3D3D3; 
+    color: #3498db; 
+    font-size: 1.5em;
+  }
+  input[type=text] {
+    width: 40%;
+    box-sizing: border-box;
+    border: 4px solid #ccc;
+    border-radius: 4px;
+    font-size: 24px;
+    background-color: white;
+    background-image: url('search.png');
+    background-position: 16px 16px;
+    background-repeat: no-repeat;
+    padding: 16px 24px 16px 52px;
+    -webkit-transition: width 0.4s ease-in-out;
+    transition: width 0.4s ease-in-out;
+    opacity: 0.7;
+  }
+  input[type=text]:focus {
+    width: 20%;
+    border: 4px solid #3498db;
+    opacity: 0.8;
+  }
+  input[type=submit]
+  {
+    background: #3498db;
+  background-image: -webkit-linear-gradient(top, #3498db, #2980b9);
+  background-image: -moz-linear-gradient(top, #3498db, #2980b9);
+  background-image: -ms-linear-gradient(top, #3498db, #2980b9);
+  background-image: -o-linear-gradient(top, #3498db, #2980b9);
+  background-image: linear-gradient(to bottom, #3498db, #2980b9);
+  -webkit-border-radius: 28;
+  -moz-border-radius: 28;
+  border-radius: 28px;
+  font-family: Arial;
+  color: #ffffff;
+  font-size: 20px;
+  padding: 10px 20px 10px 20px;
+  text-decoration: none;
+  opacity: 0.7;
+  }
+  input[type=submit]:hover {
+    background: #3cb0fd;
+    background-image: -webkit-linear-gradient(top, #3cb0fd, #3498db);
+    background-image: -moz-linear-gradient(top, #3cb0fd, #3498db);
+    background-image: -ms-linear-gradient(top, #3cb0fd, #3498db);
+    background-image: -o-linear-gradient(top, #3cb0fd, #3498db);
+    background-image: linear-gradient(to bottom, #3cb0fd, #3498db);
+    text-decoration: none;
+    opacity: 0.9;
+  }
