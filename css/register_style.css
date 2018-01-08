@@ -1,0 +1,252 @@
+@import url('https://fonts.googleapis.com/css?family=Montserrat');
+body{
+	margin:0;
+	padding:0;
+	font-size:13px;
+	font-family: Montserrat;
+
+	color:#F8F8F2;
+	background: #136a8a; 
+    background: -webkit-linear-gradient(to left, #136a8a , #267871); 
+    background: linear-gradient(to left, #136a8a , #267871);        
+}
+h1{
+   margin-top:26px;
+}
+hr{
+    width: 25%;
+    margin: 10px auto;
+    border: 2px dashed #8c8b8b;
+    opacity: 0.4;
+}
+
+img{margin:0; padding:0; border:none;}
+
+a{outline:none; text-decoration:none;}
+
+.fl_left{float:left;}
+.fl_right{float:right;}
+
+.imgholder, .imgl, .imgr{padding:4px; border:1px solid #D7DBE0;}
+.imgl{float:left; margin:0 15px 15px 0; clear:left;}
+.imgr{float:right; margin:0 0 15px 15px; clear:right;}
+
+
+/* FORM */
+
+fieldset {
+    border: 1px solid #ddd;
+    padding: 12px;
+    margin:70px;
+}
+
+legend {
+    font-size: 1.2em;
+    font-weight: bold;
+}
+
+textarea {
+    min-height: 75px;
+    resize: none;
+    width: 100%;
+    background: transparent;
+    border: none;
+    font-family: inherit;
+    outline: none;
+    color: #fff;
+}
+
+input[type="text"], 
+input[type="email"],
+input[type="time"],
+input[type="date"]{
+    border: none;
+    padding: 2px;
+    font-size: 1.1em;
+    color: #fff;
+    width: 300px;
+    background: transparent;
+    outline: none;
+}
+
+select {
+    border: 1px solid #ccc;
+    padding: 2px;
+    font-size: 1.2em;
+    color: #444;
+    width:300px;
+}
+
+input[type="submit"],
+input[type="reset"]
+ {
+    font-size: 0.8em;
+    padding: 5px;
+    border:2px solid #50C9C3;
+    background: #136a8a;
+    color: #fff;
+    font-weight: bold;
+    
+}
+input[type="submit"]:hover,
+input[type="reset"]:hover
+ {
+    font-size: 0.8em;
+    padding: 5px;
+    border:2px solid #50C9C3;
+    background: transparent;
+    color: #fff;
+    font-weight: bold;
+    cursor:pointer;
+
+}
+/*  TABLE */
+
+table {
+    border: solid 3px #e8eef4;
+    border-collapse: collapse;
+}
+
+table td {
+    padding: 5px;
+    border: solid 2px #e8eef4;
+}
+
+table th {
+    padding: 6px 5px;
+    text-align: left;
+    background-color: #e8eef4;
+    border: solid 2px #e8eef4;
+    color: #136a8a;
+}
+
+/* MISC  */
+.justify{text-align:justify;}
+.bold{font-weight:bold;}
+.center{text-align:center;}
+.right{text-align:right;}
+.nostart{list-style-type:none; margin:0; padding:0;}
+
+.clear{display:inline-block;}
+
+.clear {
+    clear: both;
+}
+
+
+div#title {
+    display: block;
+    float: left;
+    text-align: left;
+}
+
+#logindisplay {
+    font-size: 1.1em;
+    display: block;
+    text-align: right;
+    margin: 10px;
+    color: Black;
+}
+
+#logindisplay a:link {
+    color: Black;
+    text-decoration: underline;
+}
+
+#logindisplay a:visited {
+    color: Black;
+    text-decoration: underline;
+}
+
+#logindisplay a:hover {
+    color: Black;
+    text-decoration: none;
+}
+
+/* header and footer */
+header {
+  height:50px;
+  background:#136a8a;
+  text-align:center;
+  line-height:50px;
+  border-bottom: 4px solid #50C9C3;
+  overflow: hidden;
+  box-shadow: 0 1px 2px #aaa;
+  -webkit-box-shadow: 0 1px 2px #aaa;
+  -moz-box-shadow: 0 1px 2px #aaa;
+            }
+            p{
+                font-size:16px;
+                margin:auto 30px;
+            }
+       header p span{
+           margin:auto 80%;
+        }
+        header a{
+                color:#fff;
+            text-decoration: none;
+            }
+            header a:hover{
+            color: #50C9C3;
+            text-transform: capitalize;  
+            }
+      footer{
+  height:50px;
+  background:#136a8a;
+  text-align:center;
+  line-height:50px;
+          border-top: 4px solid #50C9C3;
+  border-bottom: 6px solid #8c8b8b;
+  overflow: hidden;
+  box-shadow: 0 1px 2px #aaa;
+  -webkit-box-shadow: 0 1px 2px #aaa;
+  -moz-box-shadow: 0 1px 2px #aaa;
+      }
+
+/* Mobile View */
+@media only screen and (max-width: 500px) {
+    body{
+        font-size:12px;
+    }
+    h1{
+        margin-top: 24px;
+    }
+    hr{
+    width: 50%;
+    margin: 4px auto;
+    border: 2px dashed #8c8b8b;
+    opacity: 0.4;
+    }
+    input[type="text"], 
+input[type="email"],
+input[type="time"],
+input[type="date"]{
+    
+    
+    width: 180px;
+   
+}
+input[type="submit"],
+input[type="reset"]
+ {
+    font-size: 1.0em;
+    padding: 8px;
+    border:2px solid #50C9C3;
+    background: #136a8a;
+    color: #fff;
+    font-weight: bold;
+    
+}
+input[type="submit"]:hover,
+input[type="reset"]:hover
+ {
+  
+    font-size: 1.0em;
+    padding: 8px;
+    border:2px solid #50C9C3;
+    background: #4CAF50;
+    color: #fff;
+    font-weight: bold;
+}
+}
+/* Author - Vinit Shahdeo */
