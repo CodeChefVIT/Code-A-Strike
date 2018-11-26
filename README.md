@@ -1,4 +1,4 @@
-# Code-A-Strike
+# Code A Strike [[CodeCombat](https://vinitshahdeo.github.io/CodeCombat/)]
 #### Registration portal for **[CodeCombat](https://github.com/vinitshahdeo/CodeCombat)**, a premium event by [CodeChef VIT Chapter](https://www.facebook.com/codechefvituniversity/).
 
 ![Registration Portal](https://img.shields.io/badge/registration-portal-orange.svg) 
@@ -15,5 +15,5 @@
 
 [![CodeCombat](https://img.shields.io/badge/Code-Combat-dodgerblue.svg)](https://vinitshahdeo.github.io/CodeCombat/) [![CodeChef VIT](https://img.shields.io/badge/CODECHEF-VIT--VELLORE-teal.svg)](https://www.facebook.com/codechefvituniversity/) 
 
-## Contributor
+#### Developed By [Vinit Shahdeo](https://facebook.com/vinit.shahdeo)
 [![Made By Vinit Shahdeo](https://img.shields.io/badge/Vinit-Shahdeo-salmon.svg?style=for-the-badge)](https://www.facebook.com/codechefvituniversity/)
