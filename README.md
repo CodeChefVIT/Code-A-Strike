@@ -4,6 +4,8 @@
 ![Registration Portal](https://img.shields.io/badge/registration-portal-orange.svg) 
 ![php](https://img.shields.io/badge/built&nbsp;with-php-lightpurple.svg)
 
+#### Click [here](http://codeastrike.000webhostapp.com/) to view demo.
+
 ### CodeChef VIT Chapter
 
 **[CodeChef](https://www.facebook.com/codechefvituniversity/)** is a technical chapter in **[VIT](http://vit.ac.in/) University Vellore** that helps students all over the campus to improve their coding skills.
