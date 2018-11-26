@@ -13,4 +13,4 @@
 - [Click](https://vinitshahdeo.github.io/CodeChef-VIT-Website/) to view the [Source Code](https://github.com/vinitshahdeo/CodeChef-VIT-Website) of Old Website of CodeChef VIT. [Developed by Me!]
 
 
-[![CodeCombat](https://img.shields.io/badge/Code-Combat-dodgerblue.svg?style=for-the-badge)](https://vinitshahdeo.github.io/CodeCombat/) [![CodeChef VIT](https://img.shields.io/badge/CODECHEF-VIT--VELLORE-teal.svg?style=for-the-badge)](https://www.facebook.com/codechefvituniversity/) [![Made By Vinit Shahdeo](https://img.shields.io/badge/Vinit-Shahdeo-#2980B9.svg?style=for-the-badge)](https://www.facebook.com/codechefvituniversity/)
+[![CodeCombat](https://img.shields.io/badge/Code-Combat-dodgerblue.svg?style=for-the-badge)](https://vinitshahdeo.github.io/CodeCombat/) [![CodeChef VIT](https://img.shields.io/badge/CODECHEF-VIT--VELLORE-teal.svg?style=for-the-badge)](https://www.facebook.com/codechefvituniversity/) [![Made By Vinit Shahdeo](https://img.shields.io/badge/Vinit-Shahdeo-salmon.svg?style=for-the-badge)](https://www.facebook.com/codechefvituniversity/)
