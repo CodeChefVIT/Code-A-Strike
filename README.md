@@ -1,7 +1,7 @@
 # Code-A-Strike
 #### Registration portal for **[CodeCombat](https://github.com/vinitshahdeo/CodeCombat)**, a premium event by [CodeChef VIT Chapter](https://www.facebook.com/codechefvituniversity/).
 
-[![CodeCombat](https://img.shields.io/badge/Code-Combat-dodgerblue.svg?style=for-the-badge)]((https://vinitshahdeo.github.io/CodeCombat/) [![CodeChef VIT](https://img.shields.io/badge/CODECHEF-VITVELLORE-teal.svg?style=for-the-badge)](https://www.facebook.com/codechefvituniversity/)
+[![CodeCombat](https://img.shields.io/badge/Code-Combat-dodgerblue.svg?style=for-the-badge)](https://vinitshahdeo.github.io/CodeCombat/) [![CodeChef VIT](https://img.shields.io/badge/CODECHEF-VIT--VELLORE-teal.svg?style=for-the-badge)](https://www.facebook.com/codechefvituniversity/)
 
 ### CodeChef VIT Chapter
 
