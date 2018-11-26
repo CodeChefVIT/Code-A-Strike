@@ -16,4 +16,5 @@
 [![CodeCombat](https://img.shields.io/badge/Code-Combat-dodgerblue.svg)](https://vinitshahdeo.github.io/CodeCombat/) [![CodeChef VIT](https://img.shields.io/badge/CODECHEF-VIT--VELLORE-teal.svg)](https://www.facebook.com/codechefvituniversity/) 
 
 #### Developed By [Vinit Shahdeo](https://facebook.com/vinit.shahdeo)
-[![Made By Vinit Shahdeo](https://img.shields.io/badge/Vinit-Shahdeo-salmon.svg?style=for-the-badge)](https://www.facebook.com/codechefvituniversity/)
+
+[![Made By Vinit Shahdeo](https://img.shields.io/badge/Vinit-Shahdeo-salmon.svg?style=for-the-badge)](http://vinitshahdeo.com)
