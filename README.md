@@ -18,7 +18,7 @@
 - [Click](https://vinitshahdeo.github.io/CodeChef-VIT-Website/) to view the [Source Code](https://github.com/vinitshahdeo/CodeChef-VIT-Website) of Old Website of CodeChef VIT. [Developed by Me!]
 
 
-[![CodeCombat](https://img.shields.io/badge/Code-Combat-dodgerblue.svg)](https://vinitshahdeo.github.io/CodeCombat/) [![CodeChef VIT](https://img.shields.io/badge/CodeChef-VIT&nbps;Vellore-teal.svg)](https://www.facebook.com/codechefvituniversity/) 
+[![CodeCombat](https://img.shields.io/badge/Code-Combat-dodgerblue.svg)](https://vinitshahdeo.github.io/CodeCombat/) [![CodeChef VIT](https://img.shields.io/badge/CodeChef-VIT--Vellore-teal.svg)](https://www.facebook.com/codechefvituniversity/) 
 
 #### Developed By [Vinit Shahdeo](https://facebook.com/vinit.shahdeo)
 
