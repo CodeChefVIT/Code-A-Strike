@@ -2,7 +2,7 @@
 #### Registration portal for **[CodeCombat](https://github.com/vinitshahdeo/CodeCombat)**, a premium event by [CodeChef VIT Chapter](https://www.facebook.com/codechefvituniversity/).
 
 ![Registration Portal](https://img.shields.io/badge/registration-portal-orange.svg) 
-![php](https://img.shields.io/badge/built&nbsp;with-php-purple.svg)
+![php](https://img.shields.io/badge/built&nbsp;with-php-lightpurple.svg)
 
 ### CodeChef VIT Chapter
 
@@ -13,4 +13,4 @@
 - [Click](https://vinitshahdeo.github.io/CodeChef-VIT-Website/) to view the [Source Code](https://github.com/vinitshahdeo/CodeChef-VIT-Website) of Old Website of CodeChef VIT. [Developed by Me!]
 
 
-[![CodeCombat](https://img.shields.io/badge/Code-Combat-dodgerblue.svg?style=for-the-badge)](https://vinitshahdeo.github.io/CodeCombat/) [![CodeChef VIT](https://img.shields.io/badge/CODECHEF-VIT--VELLORE-teal.svg?style=for-the-badge)](https://www.facebook.com/codechefvituniversity/)
+[![CodeCombat](https://img.shields.io/badge/Code-Combat-dodgerblue.svg?style=for-the-badge)](https://vinitshahdeo.github.io/CodeCombat/) [![CodeChef VIT](https://img.shields.io/badge/CODECHEF-VIT--VELLORE-teal.svg?style=for-the-badge)](https://www.facebook.com/codechefvituniversity/) [Made By Vinit Shahdeo](https://img.shields.io/badge/Made&nbps;with&nbsp;❤️&nbsp;by-Vinit&nbps;Shahdeo-teal.svg?style=for-the-badge)](https://www.facebook.com/codechefvituniversity/)
