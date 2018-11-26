@@ -2,7 +2,7 @@
 #### Registration portal for **[CodeCombat](https://github.com/vinitshahdeo/CodeCombat)**, a premium event by [CodeChef VIT Chapter](https://www.facebook.com/codechefvituniversity/).
 
 ![Registration Portal](https://img.shields.io/badge/registration-portal-orange.svg) 
-![php](https://img.shields.io/badge/built&nbsp;with-php-gray.svg)
+![php](https://img.shields.io/badge/built&nbsp;with-php-crimson.svg)
 
 
 [![CodeCombat](https://img.shields.io/badge/Code-Combat-dodgerblue.svg?style=for-the-badge)](https://vinitshahdeo.github.io/CodeCombat/) [![CodeChef VIT](https://img.shields.io/badge/CODECHEF-VIT--VELLORE-teal.svg?style=for-the-badge)](https://www.facebook.com/codechefvituniversity/)
